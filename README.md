@@ -97,8 +97,8 @@ I value clean code, understanding systems beyond the surface, and learning by bu
 
 ## Connect With Me
 
-- **GitHub:** [@mayankbisht1212](https://github.com/mayankbisht1212)
-- **LinkedIn:** [Add your LinkedIn profile](https://www.linkedin.com/in/mayank-bisht-b6674925b/?isSelfProfile=true)
+- **GitHub:** [Link](https://github.com/mayankbisht1212)
+- **LinkedIn:** [Link](https://www.linkedin.com/in/mayank-bisht-b6674925b/?isSelfProfile=true)
 - **Portfolio:** Coming soon
 
 ---
